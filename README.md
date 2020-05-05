@@ -1,2 +1,2 @@
 # cursojava
-Repositório criado para salvar as lições do curso de Java da Udemy. Professor Nélio Alves.
+Repositório criado para salvar o workspace curso de Java da Udemy. Professor Nélio Alves.
